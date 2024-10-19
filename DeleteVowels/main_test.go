@@ -10,8 +10,8 @@ func TestDeleteVowels(t *testing.T) {
 	}{
 		{
 			name:   "test1",
-			values: "qwertyuiop",
-			want:   "qwrtyp",
+			values: "qwertyuiop1",
+			want:   "qwrtyp1",
 		},
 
 		{
